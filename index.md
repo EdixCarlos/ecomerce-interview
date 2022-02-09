@@ -1,19 +1,28 @@
-## Welcome to GitHub Pages
+##  Tienda online
 
 You can use the [editor on GitHub](https://github.com/EdixCarlos/ecomerce-interview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Objetivo
+Construir una tienda online que despliegue productos agrupados por la categoría a
+la que pertenecen, generando por separado backend (API REST) y frontend
+(aplicación que la consuma) y utilizando la base de datos que se disponibiliza para
+su desarrollo.
 
-### Markdown
+### Resumen 
+Se realizo una aplicacion full stack con mysql hosteada en aws, en el backend se uso nodejs con typescript y express, para el frontend unicamente se uso javascript puro y bootstrap.
+La aplicacion consta de una sola vista, en la que podemos filtrar por categorias, por coincidencia de palabras y tambien un carrito de compras que toma en cuenta la cantidad de descuento y hace calcula el total.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Base de datos
 
-```markdown
-Syntax highlighted code block
+La base de datos de MySQL contiene las siguientes tablas
 
-# Header 1
-## Header 2
-### Header 3
+![image](https://user-images.githubusercontent.com/74202934/153257951-dcf6fb77-35d7-49e3-a52f-fbc3e4045bcb.png)
+### Back-End
+
+
+
+### Front-End
 
 - Bulleted
 - List
@@ -21,17 +30,14 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+
+
 ```
+```
+<!-- **Bold** and _Italic_ and `Code` text -->
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EdixCarlos/ecomerce-interview/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
