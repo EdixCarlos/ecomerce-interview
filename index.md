@@ -21,7 +21,7 @@ Revise la documentacion de api con postman [documentacion de api con postman](ht
 
 
 ### Front-End
-Se realizo un diseño minimalista con ayuda de boostrap y se uso funciones propias de javascript puro.
+Se realizo un diseño minimalista con ayuda de boostrap, se uso funciones propias de javascript puro y se hosteo en netlify.
 ![image](https://user-images.githubusercontent.com/74202934/153335779-41bec00c-c8e4-49cf-af75-c69649a82c1b.png)
 
 
