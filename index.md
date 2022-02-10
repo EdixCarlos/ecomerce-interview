@@ -1,8 +1,5 @@
 ##  Tienda online
 
-You can use the [editor on GitHub](https://github.com/EdixCarlos/ecomerce-interview/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Objetivo
 Construir una tienda online que despliegue productos agrupados por la categoría a
 la que pertenecen, generando por separado backend (API REST) y frontend
