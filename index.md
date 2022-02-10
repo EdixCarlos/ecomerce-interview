@@ -19,23 +19,17 @@ La base de datos de MySQL contiene las siguientes tablas
 
 ![image](https://user-images.githubusercontent.com/74202934/153257951-dcf6fb77-35d7-49e3-a52f-fbc3e4045bcb.png)
 ### Back-End
-
+La api rest fue contruida en nodejs con ayuda de librerias como typescript, express, dotenv, cors, mysql, helmet, deployada en aws lighsail con certificado ssl autoconfirmado, y pm2 como gestor.
+Revise la documentacion de api con postman [documentacion de api con postman](https://documenter.getpostman.com/view/7699521/UVeKp4S6)
 
 
 ### Front-End
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+Se realizo un diseño minimalista con ayuda de boostrap y se uso funciones propias de javascript puro.
+![image](https://user-images.githubusercontent.com/74202934/153335779-41bec00c-c8e4-49cf-af75-c69649a82c1b.png)
 
 
 
 
-```
-```
-<!-- **Bold** and _Italic_ and `Code` text -->
 
 
 
